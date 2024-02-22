@@ -86,7 +86,7 @@ We use [eval/benchmark_speed.py](eval/benchmark_speed.py) to evaluate the speedu
 The command we use for speedup evaluation is as follows:
 
 ```bash
-python ./speed_test.py --num_samples 50 --model_name_or_path Mixtral-8x7B-v0.1
+python ./benchmark_speed.py --num_samples 50 --model_name_or_path Mixtral-8x7B-v0.1
 ```
 
 For finer-grained options, please refer to the script.
