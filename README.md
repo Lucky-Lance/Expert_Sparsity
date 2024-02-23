@@ -5,9 +5,7 @@ Official Pytorch implementation of the expert pruning and dynamic skipping metho
 **Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models**</br>
 *Xudong Lu\*,Qi Liu\*, Yuhui Xu, Aojun Zhou, Siyuan Huang, Bo Zhang, Junchi Yan, Hongsheng Li* (\* indicates equal contribution)</br>
 CUHK MMlab, Shanghai Jiao Tong University, Shanghai Artificial Intelligence Laboratory</br>
-[Paper](https://arxiv.org/abs/XXXX.XXXX)
-
-<font color='red'>(TODO: Update arxiv link)</font>
+[Paper](https://arxiv.org/abs/2402.14800)
 
 ## Installation
 Step 1: Create a new conda environment:
