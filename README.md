@@ -101,3 +101,18 @@ Feel free to discuss papers/code with us through issues/emails!
 
 - Xudong Lu: <a href="luxudong@link.cuhk.edu.hk">luxudong@link.cuhk.edu.hk</a> 
 - Qi Liu: <a href="purewhite@sjtu.edu.cn">purewhite@sjtu.edu.cn</a> 
+
+## Citation
+
+If you find our paper and code useful in your research, please cite
+
+```
+@misc{lu2024experts,
+      title={Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models}, 
+      author={Xudong Lu and Qi Liu and Yuhui Xu and Aojun Zhou and Siyuan Huang and Bo Zhang and Junchi Yan and Hongsheng Li},
+      year={2024},
+      eprint={2402.14800},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
