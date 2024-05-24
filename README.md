@@ -2,7 +2,7 @@
 
 Official Pytorch implementation of the expert pruning and dynamic skipping methods as presented in:
 
-**Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models**</br>
+**Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models (ACL 2024, main)**</br>
 *Xudong Lu\*,Qi Liu\*, Yuhui Xu, Aojun Zhou, Siyuan Huang, Bo Zhang, Junchi Yan, Hongsheng Li* (\* indicates equal contribution)</br>
 CUHK MMlab, Shanghai Jiao Tong University, Shanghai Artificial Intelligence Laboratory</br>
 [Paper](https://arxiv.org/abs/2402.14800)
